@@ -8,7 +8,7 @@
 **Original Starbie Image:**
 ![Original Starbie Image](https://github.com/user-attachments/assets/1e089bf2-8aab-477a-9eee-4215cfdacb44)
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FUncle-Noon%2FStarboy-proj%2Ftree%2Fmain%2FStarboy)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FUncle-Noon%2FStarboy-proj%2Ftree%2Fmain%2FStarboy)   < -- (click to open PCB design) 
 
 Starboy is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
 
