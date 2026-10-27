@@ -20,7 +20,25 @@ Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi 
 Starbie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
 
 The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components. <br> 
+<h2>BOM</h2><br>
 
+
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | micro-contorller | 1 | $5.00 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| [0.96 OLED](https://www.amazon.com/dp/B0GBVWBWCR) | screen | 1 | $2.50 | $2.50 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
+| [MPU6050](https://www.amazon.com/dp/B0943SGP34) | gyroscope | 1 | $2.30 | $2.30 | [Amazon](https://www.amazon.com/dp/B0943SGP34) |
+| [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | humidity sensor | 1 | $3.33 | $3.33 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
+| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | buttons | 4 | $0.18 | $0.72 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
+| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | Buttons | 4 | $0.60 | $2.40 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
+| [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | resistance | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
+| [PCB](https://www.jlcpcb.com/) | The main thing | 1 | $10.00 | $10.00 | [JLCPB](https://www.jlcpcb.com/) |
+| **Parts subtotal** | — | — | — | **$26.30** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$26.30** | — |
+
+$3.70 left of the tier's funding.
+<br> 
 <h3> Tutorial Link -> </h3>  https://github.com/SharKingStudios/Starbie/blob/main/README.md <br> <br> 
 This is my github repo for HalfLife-HackClub program. Look into the tutorial link for more information. <br >
 This repo contains my devlogs, required files, and the BOM with the Starbie.ino. <br>
