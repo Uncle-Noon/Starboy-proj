@@ -20,7 +20,8 @@ Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi 
 Starbie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
 
 The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components. <br> 
-<h2>BOM</h2><br>
+
+<h2>BOM ( Bill of Materials )</h2><br>
 
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
@@ -37,8 +38,15 @@ The board includes a microcontroller, display, motion sensor, and environmental 
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$26.30** | — |
 
-$3.70 left of the tier's funding.
+
 <br> 
+<h2> Repository contents </h2>
+
+
+    - KiCad source files and fabrication exports 
+    - front and back PCB renders 
+    - Arduino IDE starter sketch 
+  <br>
 <h3> Tutorial Link -> </h3>  https://github.com/SharKingStudios/Starbie/blob/main/README.md <br> <br> 
 This is my github repo for HalfLife-HackClub program. Look into the tutorial link for more information. <br >
 This repo contains my devlogs, required files, and the BOM with the Starbie.ino. <br>
