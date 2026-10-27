@@ -21,3 +21,5 @@ This is my github repo for HalfLife-HackClub program. Look into the tutorial lin
 This repo contains my devlogs, required files, and the BOM with the Starbie.ino. <br>
 
 {P.S. I named my project Starboy instead of Starbiee}
+
+<img width="1145" height="842" alt="image" src="https://github.com/user-attachments/assets/3580e60e-09be-440b-8d6b-694dc0c062d0" />
